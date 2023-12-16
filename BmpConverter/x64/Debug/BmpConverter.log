@@ -1,0 +1,4 @@
+﻿  Converter.cpp
+C:\Users\Евгений\Desktop\Всякое непотребство\Операционные системы\CPPDESKTOP\BmpConverter\BmpConverter\Converter.cpp(13,2): warning C4091: typedef : пропускается слева от "ImgInfo", когда ни одна переменная не объявлена
+C:\Users\Евгений\Desktop\Всякое непотребство\Операционные системы\CPPDESKTOP\BmpConverter\BmpConverter\Converter.cpp(57): warning C4715: readPixelColorsFromFile: значение возвращается не при всех путях выполнения
+  BmpConverter.vcxproj -> C:\Users\Евгений\Desktop\Всякое непотребство\Операционные системы\CPPDESKTOP\BmpConverter\x64\Debug\BmpConverter.exe
